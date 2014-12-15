@@ -47,7 +47,7 @@ A normal window of a two-bed room is about 3.50m x 1.20m = 9.4m circumference.
 
 ### Documents
 - train/plane tickets (including verification documents for self-printed DB tickets, like your credit card or Personalausweis)
-- congress tickets (printed or in iOS passbook)
+- congress tickets (printed or digital)
 - passport or other kind of photo ID (Personalausweis)
 - driver's license (even an international one)
 - hotel booking
